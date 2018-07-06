@@ -14,3 +14,5 @@
 > RL Gitbook (in Korean): https://dnddnjs.gitbooks.io/rl/content/
 
 > RL blog (by Jay Yang): https://jay.tech.blog/category/machine-learning/reinforcement-learning/
+
+> OpenAI 기반 cartpole 예제의 이해: http://solarisailab.com/archives/2038
