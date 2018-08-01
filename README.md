@@ -7,6 +7,7 @@
 1. AI + AnyLogic article (pdf): https://www.anylogic.com/upload/Integrating_Artificial_Intelligence_With_Simulation_Modeling.pdf
 1. MINERVA paper: https://ieeexplore.ieee.org/document/8328189/
 1. MAgent: https://github.com/geek-ai/MAgent
+1. GYM-Traffic: https://github.com/bstriner/gym-traffic
 
 ## ETC
 > MARL paper collection: https://github.com/LantaoYu/MARL-Papers
